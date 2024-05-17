@@ -90,7 +90,6 @@ This project demonstrates a comprehensive approach to credit risk management usi
 |-- cleaned_bank_statements.csv
 |-- README.md
 
-
 ## Acknowledgements
 Special thanks to the contributors and the community for their support and resources.
 
