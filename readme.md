@@ -82,12 +82,19 @@ This project demonstrates a comprehensive approach to credit risk management usi
 
 ## Repository Structure
 |-- generate_synthetic_data.py
+
 |-- eda_and_feature_engineering.py
+
 |-- model_training_and_evaluation.py
+
 |-- etl_pipeline.py
+
 |-- monitor_model_performance.py
+
 |-- synthetic_bank_statements.csv
+
 |-- cleaned_bank_statements.csv
+
 |-- README.md
 
 ## Acknowledgements
